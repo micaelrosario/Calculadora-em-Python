@@ -1,2 +1,2 @@
 # Calculadora-em-Python
-Meu teste de commit no git
+- Feito com Tkinter no VsCode
